@@ -106,7 +106,7 @@ dependencies:
   - pyparsing=2.4.6=py_0
   - python=2.7.17=h9bab390_0
   - python-dateutil=2.8.1=py_0
-  - pytorch=1.0.1=cuda100py27he554f03_0
+  - pytorch=1.1.0=cuda100py27he554f03_0
   - pytz=2019.3=py_0
   - pywavelets=1.0.3=py27hd352d35_1
   - pyyaml=5.2=py27h7b6447c_0
